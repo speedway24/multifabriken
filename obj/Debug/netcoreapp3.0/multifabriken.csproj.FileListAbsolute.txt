@@ -1,0 +1,11 @@
+C:\Users\speed\Documents\C# .net\multifabriken\multifabriken\bin\Debug\netcoreapp3.0\multifabriken.exe
+C:\Users\speed\Documents\C# .net\multifabriken\multifabriken\bin\Debug\netcoreapp3.0\multifabriken.deps.json
+C:\Users\speed\Documents\C# .net\multifabriken\multifabriken\bin\Debug\netcoreapp3.0\multifabriken.runtimeconfig.json
+C:\Users\speed\Documents\C# .net\multifabriken\multifabriken\bin\Debug\netcoreapp3.0\multifabriken.runtimeconfig.dev.json
+C:\Users\speed\Documents\C# .net\multifabriken\multifabriken\bin\Debug\netcoreapp3.0\multifabriken.dll
+C:\Users\speed\Documents\C# .net\multifabriken\multifabriken\bin\Debug\netcoreapp3.0\multifabriken.pdb
+C:\Users\speed\Documents\C# .net\multifabriken\multifabriken\obj\Debug\netcoreapp3.0\multifabriken.csprojAssemblyReference.cache
+C:\Users\speed\Documents\C# .net\multifabriken\multifabriken\obj\Debug\netcoreapp3.0\multifabriken.AssemblyInfoInputs.cache
+C:\Users\speed\Documents\C# .net\multifabriken\multifabriken\obj\Debug\netcoreapp3.0\multifabriken.AssemblyInfo.cs
+C:\Users\speed\Documents\C# .net\multifabriken\multifabriken\obj\Debug\netcoreapp3.0\multifabriken.dll
+C:\Users\speed\Documents\C# .net\multifabriken\multifabriken\obj\Debug\netcoreapp3.0\multifabriken.pdb
